@@ -1,0 +1,8 @@
+{
+  "name": "SpendWise - Personal Finance Command Center",
+  "description": "A modern, interactive personal finance dashboard with real-time expense tracking, category analytics, monthly budgets, and savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
